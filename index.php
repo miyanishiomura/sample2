@@ -5,8 +5,7 @@
       <div class="home__container">
         <div class="home__img">
           <picture>
-            <source srcset="<?php echo get_template_directory_uri(); ?>/img/mainvisual.webp" />
-            <img src="<?php echo get_template_directory_uri(); ?>/img/mainvisual.png" alt="" width="640" height="480" />
+            
           </picture>
         </div>
       </div>
